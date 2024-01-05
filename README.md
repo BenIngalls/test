@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-1234
-=======
-# aboutme
->>>>>>> ebb9539a5a193b50261f43b21973856ab72f9830
+# Ben Ingalls
+## This is my personal webpage
+## About me
+I am a sophemore in ECE, I am interested in PCB design and power systems
+I also enjoy skiing and biking
